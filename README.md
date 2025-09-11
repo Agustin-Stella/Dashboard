@@ -28,10 +28,12 @@ Asegúrate de tener instalado:
    source entorno/bin/activate
 
    Windows:
+
    python -m venv entorno
    entorno\Scripts\activate
 
 3- Instalar dependencias 
+
    pip install -r requirements.txt
 
 4- Ejecutar la aplicación
